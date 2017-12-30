@@ -1,0 +1,15 @@
+<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path d="M0 10
+	l 10 130
+	l 50 0 
+	l 10 -130
+	c 0 0 -35 10 -70 0
+	c 0 0 35 -10 70 0" stroke="blue" stroke-width="2" fill="none"/>
+	<path d="
+	M 4, 50
+	L 11 138 
+	L 59 138
+	L 65 50
+	" stroke-width="2" fill="yellow"/>
+</svg>
+
